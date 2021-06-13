@@ -122,7 +122,8 @@ $lang = [
     "date"      => ['Confidențialitate','Eficiență','Profesionalism','Adevăr'],
     "send"      => 'Trimite mesaj',
     "name"      => 'Nume',
-    "message"   => 'Mesaj'
+    "message"   => 'Mesaj',
+    "consultancy" => 'Consultanță gratuită'
     
     
 ]

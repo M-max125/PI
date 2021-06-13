@@ -119,7 +119,8 @@ $lang = [
     "date"        => ['Confidentiality','Efficiency','Professionalism','Truth'],
     "send"        => 'Send message',
     "name"        => 'Name',
-    "message"     => "Message"                                  
+    "message"     => "Message",
+    "consultancy"  => "Free consultancy"                                
 
 
 ]

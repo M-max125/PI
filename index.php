@@ -388,7 +388,7 @@ include_once 'config.php';
 
     </p>
     <div class="consultancy anim" data-delay=".2s">
-      <a href="#contact">Free consultancy</a>
+      <a href="#contact"><?php echo $lang['consultancy'];?></a>
       <i class="fas fa-comment"></i>
     </div>
 <!--Flex-slider div-->
