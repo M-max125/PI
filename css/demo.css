@@ -1,0 +1,49 @@
+
+
+.clearfix:before,
+.clearfix:after {
+	content: '';
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+body {
+	
+	background-size: cover;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	
+	overflow-y: scroll;
+}
+
+body.body--hidden {
+	overflow: hidden;
+}
+
+.hidden {
+	position: absolute;
+	overflow: hidden;
+	width: 0;
+	height: 0;
+	pointer-events: none;
+}
+
+/* Content */
+
+.content {
+	padding: 1em 0 4em;
+	
+}
+
+.wrapper {
+	overflow: auto;
+	width: 95%;
+	max-width: 1366px;
+	margin: 0 auto;
+}
+
+
+
